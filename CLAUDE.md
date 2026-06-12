@@ -5,9 +5,22 @@ para un lector sin formación técnica (comercial, estudiante de dietética).
 
 ## Qué hacer en cada ejecución de la rutina
 
-1. Investigar las noticias de IA relevantes del día (WebSearch).
+1. Investigar las noticias de IA relevantes del día (WebSearch), y también
+   2-3 noticias generales relevantes del día (política, economía, ciencia,
+   sociedad, cultura...) para la sección de Cultura General.
 2. Redactar el resumen siguiendo el formato "periódico moderno" indicado en
-   el prompt de la rutina (titular del día, también hoy, 3 buenas noticias).
+   el prompt de la rutina (titular del día, también hoy, 3 buenas noticias),
+   y añadir al final, tras "🌞 3 BUENAS NOTICIAS DEL DÍA", una sección extra:
+
+   ### 🌍 CULTURA GENERAL
+   2-3 noticias relevantes del día a nivel mundial, NO relacionadas con IA
+   (política, economía, ciencia, sociedad, cultura, deporte...). Para cada
+   una: una frase de gancho, qué ha pasado y por qué es relevante, explicado
+   de forma breve y sencilla. El objetivo es que el lector amplíe su cultura
+   general y pueda seguir conversaciones de actualidad con cualquiera,
+   aunque el tema no tenga nada que ver con su trabajo o sus estudios.
+   Misma exigencia de calidad que el resto: información real, contrastada y
+   con fuente.
 3. Guardar el resumen en `resumenes/YYYY-MM-DD.md` (archivo histórico).
 4. **Sobrescribir `hoy.md`** (en la raíz del repo) con el mismo contenido del
    día. Este archivo es un **enlace fijo**: el usuario lo abre cada día desde
