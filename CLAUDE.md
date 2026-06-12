@@ -14,12 +14,12 @@ para un lector sin formación técnica (comercial, estudiante de dietética).
    el móvil para leer el resumen, así que su URL nunca debe cambiar.
 5. Hacer commit y push a la rama de trabajo (`claude/eloquent-mayer-qydwks`,
    o la rama indicada en las instrucciones de la sesión).
-6. Enviar una notificación push (PushNotification) con el enlace fijo a
-   `hoy.md` en GitHub, p. ej.:
+6. Enviar una notificación push (PushNotification) que contenga
+   **únicamente el enlace fijo a `hoy.md`** en GitHub, sin titulares, sin
+   resúmenes ni texto adicional. El usuario abre el resumen completo
+   pulsando ese enlace, no quiere leer nada en la propia notificación.
+   Ejemplo de mensaje completo:
    `https://github.com/manuelescribanotorres03-byte/ianews/blob/claude/eloquent-mayer-qydwks/hoy.md`
-   El primer mensaje de la notificación debe ser breve (titular del día);
-   el resto puede incluir el enlace y un resumen corto de "también hoy" y
-   "buenas noticias".
 
 ## Notas
 - El usuario lee principalmente desde el móvil, por eso es clave el enlace
