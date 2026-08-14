@@ -12,15 +12,17 @@ para un lector sin formación técnica (comercial, estudiante de dietética).
 4. **Sobrescribir `hoy.md`** (en la raíz del repo) con el mismo contenido del
    día. Este archivo es un **enlace fijo**: el usuario lo abre cada día desde
    el móvil para leer el resumen, así que su URL nunca debe cambiar.
-5. Hacer commit y push a la rama de trabajo (`claude/eloquent-mayer-qydwks`,
-   o la rama indicada en las instrucciones de la sesión).
+5. Hacer commit y push a la rama de trabajo (`claude/zen-brown-xcdcor`,
+   o la rama indicada en las instrucciones de la sesión — si cambia de una
+   sesión a otra, actualiza también el enlace de este archivo para que
+   siga apuntando a la rama donde realmente se sobrescribe `hoy.md`).
 6. Enviar una notificación push (PushNotification) con el siguiente formato
    exacto dentro de las etiquetas <routine_summary>:
 
    - **Primera línea:** titular corto del día (aparece como banner en el móvil).
    - **Segunda línea en blanco.**
    - **Enlace al resumen completo** (OBLIGATORIO, siempre en la segunda posición):
-     https://github.com/manuelescribanotorres03-byte/ianews/blob/claude/eloquent-mayer-qydwks/hoy.md
+     https://github.com/manuelescribanotorres03-byte/ianews/blob/claude/zen-brown-xcdcor/hoy.md
    - Avance de 3-4 líneas con los puntos clave del día (titular, también hoy,
      buenas noticias).
 
@@ -30,7 +32,7 @@ para un lector sin formación técnica (comercial, estudiante de dietética).
    🗞️ [TITULAR BREVE DEL DÍA]
 
    👉 Lee el resumen completo aquí:
-   https://github.com/manuelescribanotorres03-byte/ianews/blob/claude/eloquent-mayer-qydwks/hoy.md
+   https://github.com/manuelescribanotorres03-byte/ianews/blob/claude/zen-brown-xcdcor/hoy.md
 
    📌 También hoy: [2-3 puntos clave en una línea cada uno]
    🌞 Buenas noticias: [1 frase]
