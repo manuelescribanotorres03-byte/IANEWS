@@ -7,7 +7,7 @@
 
 ### Microsoft ofrece a unos 60.000 empleados que se vayan voluntariamente, mientras gasta fortunas en IA
 
-Imagina que tu empresa te dice: "Estamos comprando máquinas carísimas para el futuro, y para pagarlas te ofrecemos una indemnización si quieres irte". Eso es, a llo grande, lo que ha hecho Microsoft el lunes: ha ofrecido bajas voluntarias a unos 60.000 empleados (casi el 27 % de su plantilla) en EE. UU., Reino Unido, Canadá e India. Es el mayor recorte voluntario de su historia y llega justo cuando las grandes tecnológicas gastan más de 700.000 millones de dólares este año en centros de datos para IA.
+Imagina que tu empresa te dice: "Estamos comprando máquinas carísimas para el futuro, y para pagarlas te ofrecemos una indemnización si quieres irte". Eso es, a lo grande, lo que ha hecho Microsoft el lunes: ha ofrecido bajas voluntarias a unos 60.000 empleados (casi el 27 % de su plantilla) en EE. UU., Reino Unido, Canadá e India. Es el mayor recorte voluntario de su historia y llega justo cuando las grandes tecnológicas gastan más de 700.000 millones de dólares este año en centros de datos para IA.
 
 **🔍 Qué ha pasado**
 Según la agencia AP, Microsoft lo ha anunciado el 26 de octubre en un comunicado interno de su directora de personas. No son despidos: se puede aceptar o no. En mayo se hablaba de unas 8.750 personas; ahora la cifra es siete veces mayor. La empresa conecta el movimiento con el enorme coste de la IA (chips, memoria, electricidad). Ese mismo día, el Gobierno de los Países Bajos dijo que recortará unos 25.000 empleos públicos en varios años y que la IA es una de las palancas.
